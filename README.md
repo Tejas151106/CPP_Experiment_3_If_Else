@@ -1,6 +1,8 @@
 # Experiment-03
 NAME:Gandluri Sai Tejas
+
 PRN-24070123045
+
 In this experiment, we explored different types of operators used in C++ to perform various operations on data. Operators are essential building blocks that allow us to process and manipulate values effectively. We practiced using arithmetic, relational, logical, bitwise, assignment, and miscellaneous operators with simple programs.
 
 The goal was to understand how each operator works, where it’s used, and how operator precedence affects the result of expressions.
